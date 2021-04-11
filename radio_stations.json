@@ -1,0 +1,1802 @@
+[
+    {
+        "cat_language": {
+            "el": "Ελληνικές επιτυχίες",
+            "en": "Greek Mainstream"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "sfera-athens.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Sfera 102,2",
+                "searchStr": "SFERA_102_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Sfera-1022-Athens-i143/live",
+                "streamURL": "http://sfera.live24.gr/sfera4132"
+            },
+            "1": {
+                "imagePath": "dromosfm.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Δρόμος 89,8",
+                "searchStr": "DROMOS_89_8ATHINA",
+                "siteURL": "http://www.e-radio.gr/Dromos-898-Athens-i203/live",
+                "streamURL": "http://dromos898.live24.gr/dromos898"
+            },
+            "10": {
+                "imagePath": "livefm.jpg",
+                "location": "ΧΑΛΚΙΔΑ",
+                "name": "Live fm 89,6",
+                "searchStr": "LIVE_FM_89_6CHALKIDA",
+                "siteURL": "http://www.e-radio.gr/Live-fm-896-Halkida-i76/live",
+                "streamURL": "http://eco.onestreaming.com:8033/index.html/stream?type=http&amp;nocache=32064"
+            },
+            "11": {
+                "imagePath": "985nrg.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Nrg 98,5",
+                "searchStr": "NRG_98_5ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Nrg-985-Alexandroupoli-i2127/live",
+                "streamURL": "http://eco.onestreaming.com:8452/index.html/stream?type=http&amp;nocache=140742"
+            },
+            "12": {
+                "imagePath": "polis.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Polis 102,6",
+                "searchStr": "POLIS_102_6ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Polis-1026-Alexandroupoli-i536/live",
+                "streamURL": "http://eco.onestreaming.com:8334/index.html/stream?type=http&amp;nocache=903"
+            },
+            "13": {
+                "imagePath": "arhagelos.jpg",
+                "location": "ΡΟΔΟΣ",
+                "name": "Αρχάγγελος 94,1",
+                "searchStr": "ARCHAGGELOS_94_1RODOS",
+                "siteURL": "http://www.e-radio.gr/Arhagelos-941-Rhodes-i217/live",
+                "streamURL": "http://eco.onestreaming.com:8536/index.html/stream?type=http&amp;nocache=55453"
+            },
+            "14": {
+                "imagePath": "arionkids.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Arion Kids",
+                "searchStr": "ARION_KIDSATHINA",
+                "siteURL": "http://www.e-radio.gr/Arion-Kids-Athens-i8/live",
+                "streamURL": ""
+            },
+            "15": {
+                "imagePath": "astra932.jpg",
+                "location": "ΜΥΤΙΛΗΝΗ",
+                "name": "Άστρα Radio 93,2",
+                "searchStr": "ASTRA_RADIO_93_2MYTILINI",
+                "siteURL": "http://www.e-radio.gr/Astra-Radio-932-Mytilini-i897/live",
+                "streamURL": "http://eco.onestreaming.com:8554/index.html/stream?type=http&amp;nocache=70701"
+            },
+            "16": {
+                "imagePath": "bestmytilini.jpg",
+                "location": "ΜΥΤΙΛΗΝΗ",
+                "name": "Best 98,6",
+                "searchStr": "BEST_98_6MYTILINI",
+                "siteURL": "http://www.e-radio.gr/Best-986-Mytilini-i472/live",
+                "streamURL": "http://eco.onestreaming.com:8628/index.html/stream?type=http&amp;nocache=428"
+            },
+            "17": {
+                "imagePath": "topfmxanthi.jpg",
+                "location": "ΞΑΝΘΗ",
+                "name": "Top Fm 96,9",
+                "searchStr": "TOP_FM_96_9XANTHI",
+                "siteURL": "http://www.e-radio.gr/Top-Fm-969-Xanthi-i379/live",
+                "streamURL": "http://eco.onestreaming.com:8226/index.html/stream?type=http&amp;nocache=2362"
+            },
+            "18": {
+                "imagePath": "holiday949.jpg",
+                "location": "ΛΗΜΝΟΣ",
+                "name": "Holiday Radio 94,9",
+                "searchStr": "HOLIDAY_RADIO_94_9LIMNOS",
+                "siteURL": "http://www.e-radio.gr/Holiday-Radio-949-Lemnos-i2126/live",
+                "streamURL": "http://eco.onestreaming.com:8438/index.html/stream?type=http&amp;nocache=35"
+            },
+            "2": {
+                "imagePath": "arionradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Arion Radio",
+                "searchStr": "ARION_RADIOATHINA",
+                "siteURL": "http://www.e-radio.gr/Arion-Radio-Athens-i1/live",
+                "streamURL": ""
+            },
+            "3": {
+                "imagePath": "kosmoradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Κοσμοράδιο 95,1",
+                "searchStr": "KOSMORADIO_95_1THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Cosmoradio-951-Thessaloniki-i90/live",
+                "streamURL": "http://eco.onestreaming.com:8689/index.html/stream?type=http&amp;nocache=26927"
+            },
+            "4": {
+                "imagePath": "99fm.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "99fm / Radio 1",
+                "searchStr": "99FM_/_RADIO_1THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/99fm-Radio-1-Thessaloniki-i532/live",
+                "streamURL": "http://62.212.82.208:8000/index.html/;?type=http&amp;nocache=37755"
+            },
+            "6": {
+                "imagePath": "sokfm.jpg",
+                "location": "ΧΑΛΚΙΔΑ",
+                "name": "Sok Fm 104,8",
+                "searchStr": "SOK_FM_104_8CHALKIDA",
+                "siteURL": "http://www.e-radio.gr/Sok-FM-1048-Halkida-i213/live",
+                "streamURL": "http://sokfm.lalala.gr:8000/index.html/stream?type=http&amp;nocache=18793"
+            },
+            "7": {
+                "imagePath": "rythmos988.jpg",
+                "location": "ΛΑΡΙΣΑ",
+                "name": "Ρυθμός 98,8",
+                "searchStr": "RUTHMOS_98_8LARISA",
+                "siteURL": "http://www.e-radio.gr/Rythmos-988-Larisa-i404/live",
+                "streamURL": "http://eco.onestreaming.com:8189/index.html/stream?type=http&amp;nocache=12918"
+            },
+            "8": {
+                "imagePath": "greca.jpg",
+                "location": "ΠΥΡΓΟΣ",
+                "name": "Greca Fm 99,4",
+                "searchStr": "GRECA_FM_99_4PYRGOS",
+                "siteURL": "http://www.e-radio.gr/Greca-Fm-994-Pyrgos-i21/live",
+                "streamURL": "http://eco.onestreaming.com:8109/index.html/stream?type=http&amp;nocache=172516"
+            },
+            "9": {
+                "imagePath": "rythmos943.jpg",
+                "location": "ΖΑΚΥΝΘΟΣ",
+                "name": "Ρυθμός 94,3",
+                "searchStr": "RUTHMOS_94_3ZAKYNTHOS",
+                "siteURL": "http://www.e-radio.gr/Rythmos-943-Zakynthos-i454/live",
+                "streamURL": "http://eco.onestreaming.com:8217/index.html/stream?type=http&amp;nocache=527"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Έντεχνη μουσική",
+            "en": "Sophisticated Ballads"
+        },
+        "radios": [
+            {
+                "imagePath": "melodia.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Μελωδία FM 99,2",
+                "searchStr": "MELODIA_FM_99_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Melodia-FM-992-Athens-i83/live",
+                "streamURL": "http://netradio.live24.gr:80/melodia"
+            },
+            {
+                "imagePath": "diesi.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Δίεση 101,3",
+                "searchStr": "DIESI_101_3ATHINA",
+                "siteURL": "http://www.e-radio.gr/Diesi-1013-Athens-i82/live",
+                "streamURL": "http://diesi.live24.gr/diesi1013"
+            },
+            {
+                "imagePath": "menta88.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Μέντα 88",
+                "searchStr": "MENTA_88ATHINA",
+                "siteURL": "http://www.e-radio.gr/Menta-88-Athens-i431/live",
+                "streamURL": "http://netradio.live24.gr/menta-trans"
+            },
+            {
+                "imagePath": "akous_inlove.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. InLove",
+                "searchStr": "AKOUS._INLOVEATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-InLove-Athens-i1839/live",
+                "streamURL": ""
+            },
+            {
+                "imagePath": "akous_gazi.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Gazi",
+                "searchStr": "AKOUS._GAZIATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Gazi-Athens-i1706/live",
+                "streamURL": ""
+            },
+            {
+                "imagePath": "loveradio2018.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Love Radio 97,5",
+                "searchStr": "LOVE_RADIO_97_5ATHINA",
+                "siteURL": "http://www.e-radio.gr/Love-Radio-975-Athens-i287/live",
+                "streamURL": "http://loveradio.live24.gr/loveradio-1000"
+            },
+            {
+                "imagePath": "arionchristmas.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Arion Christmas",
+                "searchStr": "ARION_CHRISTMASATHINA",
+                "siteURL": "http://www.e-radio.gr/Arion-Christmas-Athens-i2050/live",
+                "streamURL": ""
+            },
+            {
+                "imagePath": "akousdreamsmas.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Dreamsmas",
+                "searchStr": "AKOUS._DREAMSMASATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Dreamsmas-Athens-i6/live",
+                "streamURL": ""
+            },
+            {
+                "imagePath": "Erotikos.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Ερωτικός 94,8",
+                "searchStr": "EROTIKOS_94_8THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Eroticos-948-Thessaloniki-i93/live",
+                "streamURL": "http://eu7.fastcast4u.com:6154/index.html/stream?type=http&amp;nocache=13192"
+            },
+            {
+                "imagePath": "arionstigmes.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Arion Στιγμές",
+                "searchStr": "ARION_STIGMESATHINA",
+                "siteURL": "http://www.e-radio.gr/Arion-Stigmes-Athens-i5/live",
+                "streamURL": ""
+            },
+            {
+                "imagePath": "armonia.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Αρμονία",
+                "searchStr": "ARMONIAATHINA",
+                "siteURL": "http://www.e-radio.gr/Armonia-Athens-i2008/live",
+                "streamURL": "http://eco.onestreaming.com:8447/index.html/stream?type=http&amp;nocache=13"
+            },
+            {
+                "imagePath": "ellinikos932.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Ελληνικός 93,2",
+                "searchStr": "ELLINIKOS_93_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Ellinikos-932-Athens-i282/live",
+                "streamURL": "http://orange.live24.gr:80/orange9320"
+            },
+            {
+                "imagePath": "ert-deftero.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "ΕΡΤ Δεύτερο 103,7",
+                "searchStr": "ERT_DEUTERO_103_7ATHINA",
+                "siteURL": "http://www.e-radio.gr/ERT-Deftero-1037-Athens-i84/live",
+                "streamURL": "http://radiostreaming.ert.gr/ert-deftero"
+            },
+            {
+                "imagePath": "minima1077.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Μήνυμα 107,7",
+                "searchStr": "MINUMA_107_7THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Minima-1077-Thessaloniki-i529/live",
+                "streamURL": "http://188.165.192.5:8558/index.html/stream?type=http&amp;nocache=2205"
+            },
+            {
+                "imagePath": "lihnari.jpg",
+                "location": "ΡΟΔΟΣ",
+                "name": "Λυχνάρι 91,7",
+                "searchStr": "LUCHNARI_91_7RODOS",
+                "siteURL": "http://www.e-radio.gr/Lihnari-917-Rhodes-i196/live",
+                "streamURL": "http://eco.onestreaming.com:8037/index.html/stream?type=http&amp;nocache=55918"
+            },
+            {
+                "imagePath": "aeolos.jpg",
+                "location": "ΜΥΤΙΛΗΝΗ",
+                "name": "Αίολος 92,8",
+                "searchStr": "AIOLOS_92_8MYTILINI",
+                "siteURL": "http://www.e-radio.gr/Aeolos-928-Mytilini-i1430/live",
+                "streamURL": "http://eco.onestreaming.com:8552/index.html/stream?type=http&amp;nocache=70194"
+            }
+        ]
+    },
+    {
+        "cat_language": {
+            "el": "Διεθνής μουσική",
+            "en": "International Music"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "velvetfm.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Velvet.Fm",
+                "searchStr": "VELVET.FMATHINA",
+                "siteURL": "http://www.e-radio.gr/VelvetFm-Athens-i3/live",
+                "streamURL": ""
+            },
+            "1": {
+                "imagePath": "athensparty.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Athens Party",
+                "searchStr": "ATHENS_PARTYATHINA",
+                "siteURL": "http://www.e-radio.gr/Athens-Party-Athens-i2/live",
+                "streamURL": ""
+            },
+            "10": {
+                "imagePath": "rainbow89.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Rainbow 89",
+                "searchStr": "RAINBOW_89THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Rainbow-89-Thessaloniki-i92/live",
+                "streamURL": "http://62.212.82.197:8000/index.html/;?type=http&amp;nocache=395668"
+            },
+            "11": {
+                "imagePath": "akous_80s.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. 80s",
+                "searchStr": "AKOUS._80SATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-80s-Athens-i1709/live",
+                "streamURL": ""
+            },
+            "12": {
+                "imagePath": "hotfmathens.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Hot Fm",
+                "searchStr": "HOT_FMINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Hot-Fm-Internet-Radio-i963/live",
+                "streamURL": "http://hotfm.live24.gr/hotfm"
+            },
+            "13": {
+                "imagePath": "madradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Mad Radio 106,2",
+                "searchStr": "MAD_RADIO_106_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Mad-Radio-1062-Athens-i484/live",
+                "streamURL": "http://mediaserver.mad.tv/stream"
+            },
+            "14": {
+                "imagePath": "yes912.jpg",
+                "location": "ΠΑΤΡΑ",
+                "name": "YES! 91,2",
+                "searchStr": "YES!_91_2PATRA",
+                "siteURL": "http://www.e-radio.gr/YES-912-Patras-i1834/live",
+                "streamURL": "http://5.9.17.142:8024/index.html/stream?type=http&amp;nocache=1251830"
+            },
+            "15": {
+                "imagePath": "cityfm.jpg",
+                "location": "ΗΡΑΚΛΕΙΟ",
+                "name": "City FM 100",
+                "searchStr": "CITY_FM_100IRAKLEIO",
+                "siteURL": "http://www.e-radio.gr/City-FM-100-Heraklion-i530/live",
+                "streamURL": "http://eco.onestreaming.com:8173/index.html/stream?type=http&amp;nocache=11295"
+            },
+            "16": {
+                "imagePath": "venusfm.jpg",
+                "location": "ΑΜΑΛΙΑΔΑ",
+                "name": "Venus 105,1",
+                "searchStr": "VENUS_105_1AMALIADA",
+                "siteURL": "http://www.e-radio.gr/Venus-1051-Amaliada-i779/live",
+                "streamURL": "http://eco.onestreaming.com:8171/index.html/stream?type=http&amp;nocache=10908"
+            },
+            "17": {
+                "imagePath": "tuningradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Tuning Radio",
+                "searchStr": "TUNING_RADIOTHESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Tuning-Radio-Thessaloniki-i889/live",
+                "streamURL": "http://listen.radionomy.com/tuningradiogr"
+            },
+            "18": {
+                "imagePath": "kissmjt.jpg",
+                "location": "ΜΥΤΙΛΗΝΗ",
+                "name": "Kiss MJT 101,5",
+                "searchStr": "KISS_MJT_101_5MYTILINI",
+                "siteURL": "http://www.e-radio.gr/Kiss-MJT-1015-Mytilini-i399/live",
+                "streamURL": "http://eco.onestreaming.com:8550/index.html/stream?type=http&amp;nocache=2319"
+            },
+            "19": {
+                "imagePath": "revivalradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Revival",
+                "searchStr": "REVIVALTHESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Revival-Thessaloniki-i2021/live",
+                "streamURL": "http://eco.onestreaming.com:8274/index.html/stream?type=http&amp;nocache=153007"
+            },
+            "2": {
+                "imagePath": "kiss929.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Kiss 92,9",
+                "searchStr": "KISS_92_9ATHINA",
+                "siteURL": "http://www.e-radio.gr/Kiss-929-Athens-i114/live",
+                "streamURL": "http://kissfm.live24.gr:80/kiss2111"
+            },
+            "3": {
+                "imagePath": "deejay.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Athens DeeJay 95,2",
+                "searchStr": "ATHENS_DEEJAY_95_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Athens-DeeJay-952-Athens-i420/live",
+                "streamURL": "http://netradio.live24.gr:80/athensdeejay"
+            },
+            "4": {
+                "imagePath": "plusradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Plus Radio 102,6",
+                "searchStr": "PLUS_RADIO_102_6THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Plus-Radio-1026-Thessaloniki-i780/live",
+                "streamURL": "http://eco.onestreaming.com:8039/index.html/stream?type=http&amp;nocache=125600"
+            },
+            "5": {
+                "imagePath": "akous_breeze.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Breeze",
+                "searchStr": "AKOUS._BREEZEATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Breeze-Athens-i2063/live",
+                "streamURL": ""
+            },
+            "6": {
+                "imagePath": "playradio.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Play Radio",
+                "searchStr": "PLAY_RADIOINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Play-Radio-Internet-Radio-i1969/live",
+                "streamURL": "http://eco.onestreaming.com:8222/index.html/stream?type=http&amp;nocache=9891"
+            },
+            "7": {
+                "imagePath": "more103.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "More 103",
+                "searchStr": "MORE_103THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/More-103-Thessaloniki-i2125/live",
+                "streamURL": "http://eco.onestreaming.com:8041/index.html/stream?type=http&amp;nocache=19235"
+            },
+            "8": {
+                "imagePath": "athenspartyrnb.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Athens Party RNB",
+                "searchStr": "ATHENS_PARTY_RNBATHINA",
+                "siteURL": "http://www.e-radio.gr/Athens-Party-RNB-Athens-i9/live",
+                "streamURL": ""
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Ελληνικά λαϊκά",
+            "en": "Greek Traditional"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "akous_palko.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Πάλκο",
+                "searchStr": "AKOUS._PALKOATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Palko-Athens-i2058/live",
+                "streamURL": ""
+            },
+            "1": {
+                "imagePath": "arionlaikos.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Arion Λαϊκός",
+                "searchStr": "ARION_LAIKOSATHINA",
+                "siteURL": "http://www.e-radio.gr/Arion-Laikos-Athens-i7/live",
+                "streamURL": ""
+            },
+            "10": {
+                "imagePath": "radioastro.jpg",
+                "location": "ΡΕΘΥΜΝΟ",
+                "name": "Astro Fm 96,4",
+                "searchStr": "ASTRO_FM_96_4RETHYMNO",
+                "siteURL": "http://www.e-radio.gr/Astro-Fm-964-Rethymno-i205/live",
+                "streamURL": "http://eco.onestreaming.com:8099/index.html/stream?type=http&amp;nocache=26215"
+            },
+            "2": {
+                "imagePath": "dertiwebradio.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Derti",
+                "searchStr": "DERTIINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Derti-Internet-Radio-i2316/live",
+                "streamURL": "http://derti.live24.gr:80/derty1000"
+            },
+            "3": {
+                "imagePath": "mousikos_986.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Μουσικός 98,6",
+                "searchStr": "MOUSIKOS_98_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Mousikos-986-Athens-i468/live",
+                "streamURL": "http://netradio.live24.gr:80/mousikos986"
+            },
+            "4": {
+                "imagePath": "lakkasouli.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Λάκκα Σούλι Radio",
+                "searchStr": "LAKKA_SOULI_RADIOINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Lakka-Souli-Radio-Internet-Radio-i869/live",
+                "streamURL": "http://eco.onestreaming.com:8286/index.html/stream?type=http&amp;nocache=132144"
+            },
+            "5": {
+                "imagePath": "olafm987.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Όλα 98,7",
+                "searchStr": "OLA_98_7ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Ola-987-Alexandroupoli-i295/live",
+                "streamURL": "http://eco.onestreaming.com:8667/index.html/stream?type=http&amp;nocache=70"
+            },
+            "6": {
+                "imagePath": "diavlos91.jpg",
+                "location": "ΧΑΛΚΙΔΑ",
+                "name": "Δίαυλος 91,1",
+                "searchStr": "DIAULOS_91_1CHALKIDA",
+                "siteURL": "http://www.e-radio.gr/Diavlos-911-Halkida-i957/live",
+                "streamURL": "http://netradio.live24.gr/diavlos911"
+            },
+            "9": {
+                "imagePath": "kastoriafm.jpg",
+                "location": "ΚΑΣΤΟΡΙΑ",
+                "name": "Καστοριά Fm 91,5",
+                "searchStr": "KASTORIA_FM_91_5KASTORIA",
+                "siteURL": "http://www.e-radio.gr/Kastoria-Fm-915-Kastoria-i195/live",
+                "streamURL": "http://eco.onestreaming.com:8107/index.html/stream?type=http&amp;nocache=129967"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Ειδήσεις",
+            "en": "News"
+        },
+        "radios": [
+            {
+                "imagePath": "realfm.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Real Fm 97,8",
+                "searchStr": "REAL_FM_97_8ATHINA",
+                "siteURL": "http://www.e-radio.gr/Real-Fm-978-Athens-i680/live",
+                "streamURL": "http://realfm2.live24.gr/realfm"
+            },
+            {
+                "imagePath": "parapolitikafm.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Παραπολιτικά FM 90,1",
+                "searchStr": "PARAPOLITIKA_FM_90_1ATHINA",
+                "siteURL": "http://www.e-radio.gr/Parapolitika-FM-901-Athens-i280/live",
+                "streamURL": "http://iservsp.mediacdn.com:80/athinaradio"
+            },
+            {
+                "imagePath": "skai.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "ΣΚΑΪ Radio 100,3",
+                "searchStr": "SKAΪ_RADIO_100_3ATHINA",
+                "siteURL": "http://www.e-radio.gr/SKAI-Radio-1003-Athens-i103/live",
+                "streamURL": "http://netradio.live24.gr:80/skai1003"
+            },
+            {
+                "imagePath": "rthess.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Ράδιο Θεσσαλονίκη 94,5",
+                "searchStr": "RADIO_THESSALONIKI_94_5THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Radio-Thessaloniki-945-Thessaloniki-i89/live",
+                "streamURL": "http://eu7.fastcast4u.com:6156/index.html/stream?type=http&amp;nocache=15053"
+            },
+            {
+                "imagePath": "alpha989.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Alpha 98,9",
+                "searchStr": "ALPHA_98_9ATHINA",
+                "siteURL": "http://www.e-radio.gr/Alpha-989-Athens-i104/live",
+                "streamURL": "http://stream.radiojar.com/xcdg6yggzfeuv"
+            },
+            {
+                "imagePath": "themaradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Θέμα Radio 104,6",
+                "searchStr": "THEMA_RADIO_104_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Thema-Radio-1046-Athens-i2317/live",
+                "streamURL": "http://stream.radiojar.com/cdk030dsvv5tv"
+            },
+            {
+                "imagePath": "realfmthess.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Real Fm 107,1",
+                "searchStr": "REAL_FM_107_1THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Real-Fm-1071-Thessaloniki-i1778/live",
+                "streamURL": "http://realfmthess.live24.gr/realthess"
+            },
+            {
+                "imagePath": "news247radio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "News 24/7 88,6",
+                "searchStr": "NEWS_24/7_88_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/News-247-886-Athens-i2273/live",
+                "streamURL": "http://stream.radiojar.com/gphtvb4env5tv"
+            },
+            {
+                "imagePath": "ert-proto.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "ΕΡΤ Πρώτο 105,8",
+                "searchStr": "ERT_PROTO_105_8ATHINA",
+                "siteURL": "http://www.e-radio.gr/ERT-Proto-1058-Athens-i105/live",
+                "streamURL": "http://radiostreaming.ert.gr/ert-proto"
+            },
+            {
+                "imagePath": "kokkino.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Sto Kokkino 105,5",
+                "searchStr": "STO_KOKKINO_105_5ATHINA",
+                "siteURL": "http://www.e-radio.gr/Sto-Kokkino-1055-Athens-i415/live",
+                "streamURL": "http://stream.radiojar.com:80/kokkino-ath.mp3"
+            },
+            {
+                "imagePath": "drt.jpg",
+                "location": "ΤΡΙΠΟΛΗ",
+                "name": "Δημοτικό Τρίπολης 91,5",
+                "searchStr": "DIMOTIKO_TRIPOLIS_91_5TRIPOLI",
+                "siteURL": "http://www.e-radio.gr/Dimotiko-Tripolis-915-Tripoli-i544/live",
+                "streamURL": "http://eco.onestreaming.com:8185/index.html/stream?type=http&amp;nocache=10256"
+            },
+            {
+                "imagePath": "statusradio.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Status 94,2",
+                "searchStr": "STATUS_94_2ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Status-942-Alexandroupoli-i873/live",
+                "streamURL": "http://eco.onestreaming.com:8131/index.html/stream?type=http&amp;nocache=2349"
+            },
+            {
+                "imagePath": "flyradio.jpg",
+                "location": "ΣΠΑΡΤΗ",
+                "name": "Fly Radio 89,7",
+                "searchStr": "FLY_RADIO_89_7SPARTI",
+                "siteURL": "http://www.e-radio.gr/Fly-Radio-897-Sparti-i252/live",
+                "streamURL": "http://eco.onestreaming.com:8272/index.html/stream?type=http&amp;nocache=549"
+            },
+            {
+                "imagePath": "thrakifm.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Θράκη Fm 99,8",
+                "searchStr": "THRAKI_FM_99_8ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Thraki-Fm-998-Alexandroupoli-i636/live",
+                "streamURL": "http://eco.onestreaming.com:8010/index.html/stream?type=http&amp;nocache=5578"
+            },
+            {
+                "imagePath": "radiokalloni.jpg",
+                "location": "ΚΑΛΛΟΝΗ",
+                "name": "Ράδιο Καλλονή 107,7",
+                "searchStr": "RADIO_KALLONI_107_7KALLONI",
+                "siteURL": "http://www.e-radio.gr/Radio-Kalloni-1077-Kalloni-i798/live",
+                "streamURL": "http://eco.onestreaming.com:8380/index.html/stream?type=http&amp;nocache=9963"
+            },
+            {
+                "imagePath": "hxofm.jpg",
+                "location": "ΛΑΣΙΘΙ",
+                "name": "Ηχώ Fm 99,8",
+                "searchStr": "ICHO_FM_99_8LASITHI",
+                "siteURL": "http://www.e-radio.gr/Hxo-Fm-998-Lasithi-i192/live",
+                "streamURL": "http://eco.onestreaming.com:8520/index.html/stream?type=http&amp;nocache=448"
+            },
+            {
+                "imagePath": "feres.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Sferikos 99,3",
+                "searchStr": "SFERIKOS_99_3ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Sferikos-993-Alexandroupoli-i182/live",
+                "streamURL": "http://eco.onestreaming.com:8012/index.html/stream?type=http&amp;nocache=165603"
+            },
+            {
+                "imagePath": "starfmlamia.jpg",
+                "location": "ΛΑΜΙΑ",
+                "name": "Star FM Λαμία 97,1",
+                "searchStr": "STAR_FM_LAMIA_97_1LAMIA",
+                "siteURL": "http://www.e-radio.gr/Star-FM-Lamia-971-Lamia-i210/live",
+                "streamURL": "http://eco.onestreaming.com:8434/index.html/stream?type=http&amp;nocache=486"
+            },
+            {
+                "imagePath": "902-webradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "902",
+                "searchStr": "902ATHINA",
+                "siteURL": "http://www.e-radio.gr/902-Athens-i1156/live",
+                "streamURL": "http://icecast.902.gr:8000/902.gr"
+            }
+        ]
+    },
+    {
+        "cat_language": {
+            "el": "Εναλλακτικά",
+            "en": "Alternative"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "pepper966.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Pepper 96,6",
+                "searchStr": "PEPPER_96_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Pepper-966-Athens-i1233/live",
+                "streamURL": "http://pepper966.live24.gr/pepperorigin"
+            },
+            "1": {
+                "imagePath": "akous_deluxe.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Domotel Deluxe",
+                "searchStr": "AKOUS._DOMOTEL_DELUXEATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Domotel-Deluxe-Athens-i1708/live",
+                "streamURL": ""
+            },
+            "10": {
+                "imagePath": "playlounge.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Play Lounge",
+                "searchStr": "PLAY_LOUNGEINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Play-Lounge-Internet-Radio-i2305/live",
+                "streamURL": "http://eco.onestreaming.com:8683/index.html/stream?type=http&amp;nocache=148336"
+            },
+            "11": {
+                "imagePath": "akous_jazzin.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Akous. JazzIN",
+                "searchStr": "AKOUS._JAZZININTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Akous-JazzIN-Internet-Radio-i1870/live",
+                "streamURL": ""
+            },
+            "12": {
+                "imagePath": "akous_myclassic.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Akous. My Classic",
+                "searchStr": "AKOUS._MY_CLASSICINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Akous-My-Classic-Internet-Radio-i1869/live",
+                "streamURL": ""
+            },
+            "13": {
+                "imagePath": "fly889.jpg",
+                "location": "ΗΡΑΚΛΕΙΟ",
+                "name": "Fly FM 88,1",
+                "searchStr": "FLY_FM_88_1IRAKLEIO",
+                "siteURL": "http://www.e-radio.gr/Fly-FM-881-Heraklion-i1835/live",
+                "streamURL": "http://eco.onestreaming.com:8602/index.html/stream?type=http&amp;nocache=496"
+            },
+            "14": {
+                "imagePath": "akous_rodon.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Akous. Ρόδον",
+                "searchStr": "AKOUS._RODONATHINA",
+                "siteURL": "http://www.e-radio.gr/Akous-Rodon-Athens-i1707/live",
+                "streamURL": ""
+            },
+            "15": {
+                "imagePath": "apopsi.jpg",
+                "location": "ΚΑΛΑΜΑΤΑ",
+                "name": "Ράδιο Άποψη",
+                "searchStr": "RADIO_APOPSIKALAMATA",
+                "siteURL": "http://www.e-radio.gr/Radio-Apopsi-Kalamata-i2013/live",
+                "streamURL": "http://eco.onestreaming.com:8398/index.html/stream?type=http&amp;nocache=9573"
+            },
+            "16": {
+                "imagePath": "athensvoicefm.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Athens Voice 102,5",
+                "searchStr": "ATHENS_VOICE_102_5ATHINA",
+                "siteURL": "http://www.e-radio.gr/Athens-Voice-1025-Athens-i144/live",
+                "streamURL": "http://nitro.live24.gr/nitro4555"
+            },
+            "17": {
+                "imagePath": "radioactive.jpg",
+                "location": "ΣΙΦΝΟΣ",
+                "name": "Radio Active 91,3",
+                "searchStr": "RADIO_ACTIVE_91_3SIFNOS",
+                "siteURL": "http://www.e-radio.gr/RadioActive-913-Sifnos-i241/live",
+                "streamURL": "http://46.165.220.22:8050/radioactive"
+            },
+            "18": {
+                "imagePath": "ianosradio.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Ianos Radio",
+                "searchStr": "IANOS_RADIOINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Ianos-Radio-Internet-Radio-i937/live",
+                "streamURL": "http://stream8040.radioname.net:8040/ianos.mp3"
+            },
+            "20": {
+                "imagePath": "thnxradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "THNX Radio",
+                "searchStr": "THNX_RADIOATHINA",
+                "siteURL": "http://www.e-radio.gr/THNX-Radio-Athens-i2118/live",
+                "streamURL": "http://eco.onestreaming.com:8430/index.html/stream?type=http&amp;nocache=4297"
+            },
+            "21": {
+                "imagePath": "klimaka.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Kλίμαξ Plus",
+                "searchStr": "KLIMAX_PLUSINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Klimax-Plus-Internet-Radio-i948/live",
+                "streamURL": "http://eco.onestreaming.com:8047/index.html/stream?type=http&amp;nocache=15786"
+            },
+            "3": {
+                "imagePath": "wonder.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Wonder",
+                "searchStr": "WONDERATHINA",
+                "siteURL": "http://www.e-radio.gr/Wonder-Athens-i10/live",
+                "streamURL": ""
+            },
+            "4": {
+                "imagePath": "imagine.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Imagine 89,7",
+                "searchStr": "IMAGINE_89_7THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Imagine-897-Thessaloniki-i762/live",
+                "streamURL": "http://37.59.32.115:6224/stream"
+            },
+            "5": {
+                "imagePath": "bestradio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Best 92,6",
+                "searchStr": "BEST_92_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Best-926-Athens-i95/live",
+                "streamURL": "http://best.live24.gr/best1222"
+            },
+            "6": {
+                "imagePath": "offradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "OFF Radio",
+                "searchStr": "OFF_RADIOTHESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/OFF-Radio-Thessaloniki-i809/live",
+                "streamURL": "http://46.28.53.118:7062/stream"
+            },
+            "7": {
+                "imagePath": "fly104.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Fly 104",
+                "searchStr": "FLY_104THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Fly-104-Thessaloniki-i304/live",
+                "streamURL": "http://37.59.32.115:6168/stream"
+            },
+            "8": {
+                "imagePath": "galaxy92.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Galaxy 92",
+                "searchStr": "GALAXY_92ATHINA",
+                "siteURL": "http://www.e-radio.gr/Galaxy-92-Athens-i99/live",
+                "streamURL": "http://galaxy.live24.gr/galaxy9292"
+            },
+            "9": {
+                "imagePath": "ert-kosmos.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "ΕΡΤ Κόσμος 93,6",
+                "searchStr": "ERT_KOSMOS_93_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/ERT-Kosmos-936-Athens-i113/live",
+                "streamURL": "http://radiostreaming.ert.gr/ert-kosmos"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Θρησκευτικά",
+            "en": "Religious"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "peiraios.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Πειραϊκή Εκκλησία 91,2",
+                "searchStr": "PEIRAIKI_EKKLISIA_91_2ATHINA",
+                "siteURL": "http://www.e-radio.gr/Piraeus-Ecclesia-912-Athens-i204/live",
+                "streamURL": "http://136.243.61.157:8310/index.html/stream?type=http&amp;nocache=2419"
+            },
+            "2": {
+                "imagePath": "monaxikidiakonia.jpg",
+                "location": "ΒΟΛΟΣ",
+                "name": "Μοναχική Διακονία 87,5",
+                "searchStr": "MONACHIKI_DIAKONIA_87_5BOLOS",
+                "siteURL": "http://www.e-radio.gr/Monaxiki-Diakonia-875-Volos-i1031/live",
+                "streamURL": "http://eco.onestreaming.com:8019/index.html/stream?type=http&amp;nocache=10600"
+            },
+            "3": {
+                "imagePath": "pavleioslogos.jpg",
+                "location": "ΒΕΡΟΙΑ",
+                "name": "Παύλειος Λόγος Ι.Μ. Βέροιας 90,2",
+                "searchStr": "PAULEIOS_LOGOS_I.M._BEROIAS_90_2BEROIA",
+                "siteURL": "http://www.e-radio.gr/Pavlios-Logos-IM-Verias-902-Veria-i1757/live",
+                "streamURL": "http://eco.onestreaming.com:8548/index.html/stream?type=http&amp;nocache=1034"
+            },
+            "4": {
+                "imagePath": "elpida961.jpg",
+                "location": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+                "name": "Ράδιο Ελπίδα 96,1",
+                "searchStr": "RADIO_ELPIDA_96_1ALEXANDROYPOLI",
+                "siteURL": "http://www.e-radio.gr/Radio-Elpida-961-Alexandroupoli-i1051/live",
+                "streamURL": "http://eco.onestreaming.com:8564/index.html/stream?type=http&amp;nocache=1019"
+            },
+            "6": {
+                "imagePath": "imf894.jpg",
+                "location": "ΛΑΜΙΑ",
+                "name": "Ι.Μ. Φθιώτιδας 89,4",
+                "searchStr": "I.M._FTHIOTIDAS_89_4LAMIA",
+                "siteURL": "http://www.e-radio.gr/IM-Fthiotidas-894-Lamia-i1384/live",
+                "streamURL": "http://eco.onestreaming.com:8264/index.html/stream?type=http&amp;nocache=81376"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Αθλητικά",
+            "en": "Sports"
+        },
+        "radios": {
+            "1": {
+                "imagePath": "arena894.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Arena Sports 89,4",
+                "searchStr": "ARENA_SPORTS_89_4THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Arena-Sports-894-Thessaloniki-i632/live",
+                "streamURL": "http://eco.onestreaming.com:8418/index.html/stream?type=http&amp;nocache=52656"
+            },
+            "2": {
+                "imagePath": "liberofm.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Libero 107,4",
+                "searchStr": "LIBERO_107_4THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Libero-1074-Thessaloniki-i208/live",
+                "streamURL": "http://eco.onestreaming.com:8081/index.html/stream?type=http&amp;nocache=46124"
+            },
+            "3": {
+                "imagePath": "sportfm946.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Sport Fm 94,6",
+                "searchStr": "SPORT_FM_94_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Sport-Fm-946-Athens-i145/live",
+                "streamURL": "http://sportfm.live24.gr/sportfm7712"
+            },
+            "4": {
+                "imagePath": "ert-erasport.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "ΕΡΑ Σπορ 101,8",
+                "searchStr": "ERA_SPOR_101_8ATHINA",
+                "siteURL": "http://www.e-radio.gr/ERA-Sport-1018-Athens-i109/live",
+                "streamURL": "http://radiostreaming.ert.gr/ert-erasport   "
+            },
+            "5": {
+                "imagePath": "sport24radio.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Sport24 Radio 103,3",
+                "searchStr": "SPORT24_RADIO_103_3ATHINA",
+                "siteURL": "http://www.e-radio.gr/Sport24-Radio-1033-Athens-i841/live",
+                "streamURL": "http://sport24radio.live24.gr/sport24radio"
+            },
+            "6": {
+                "imagePath": "athletic.jpg",
+                "location": "ΗΡΑΚΛΕΙΟ",
+                "name": "Athletic 104,2",
+                "searchStr": "ATHLETIC_104_2IRAKLEIO",
+                "siteURL": "http://www.e-radio.gr/Athletic-1042-Heraklion-i206/live",
+                "streamURL": "http://eco.onestreaming.com:8052/index.html/stream?type=http&amp;nocache=644"
+            },
+            "7": {
+                "imagePath": "kissavos978.jpg",
+                "location": "ΛΑΡΙΣΑ",
+                "name": "Ραδιοφωνία Κισσάβου 97,8",
+                "searchStr": "RADIOFONIA_KISSABOU_97_8LARISA",
+                "siteURL": "http://www.e-radio.gr/Radiofonia-Kissavou-978-Larisa-i11/live",
+                "streamURL": "http://eco.onestreaming.com:8103/index.html/stream?type=http&amp;nocache=10216"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Ελληνική και ξένη ροκ",
+            "en": "Rock"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "Red.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Red 96,3",
+                "searchStr": "RED_96_3ATHINA",
+                "siteURL": "http://www.e-radio.gr/Red-963-Athens-i102/live",
+                "streamURL": "http://206.190.150.92:8295/stream"
+            },
+            "2": {
+                "imagePath": "1055rock.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "1055 Rock 105,5",
+                "searchStr": "1055_ROCK_105_5THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/1055-Rock-1055-Thessaloniki-i116/live",
+                "streamURL": "http://radio.1055rock.gr:30000/1055"
+            },
+            "3": {
+                "imagePath": "rockradio.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Rock Radio 104,7",
+                "searchStr": "ROCK_RADIO_104_7THESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Rock-Radio-1047-Thessaloniki-i136/live",
+                "streamURL": "http://188.165.248.218:8013/stream"
+            },
+            "4": {
+                "imagePath": "Gold.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Radio Gold",
+                "searchStr": "RADIO_GOLDINTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Radio-Gold-Internet-Radio-i101/live",
+                "streamURL": "http://radiogold.live24.gr/radiogold"
+            },
+            "5": {
+                "imagePath": "musicmania.jpg",
+                "location": "ΘΕΣΣΑΛΟΝΙΚΗ",
+                "name": "Music Mania",
+                "searchStr": "MUSIC_MANIATHESSALONIKI",
+                "siteURL": "http://www.e-radio.gr/Music-Mania-Thessaloniki-i861/live",
+                "streamURL": "http://eco.onestreaming.com:8632/index.html/stream?type=http&amp;nocache=68330"
+            },
+            "6": {
+                "imagePath": "nostos1006.jpg",
+                "location": "ΑΘΗΝΑ",
+                "name": "Νόστος 100,6",
+                "searchStr": "NOSTOS_100_6ATHINA",
+                "siteURL": "http://www.e-radio.gr/Nostos-1006-Athens-i64/live",
+                "streamURL": "http://144.76.92.208:7878/index.html/stream?type=http&amp;nocache=3240"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Κύπρος",
+            "en": "Cyprus"
+        },
+        "radios": {
+            "0": {
+                "imagePath": "mixfmcyprus2.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "MixFm 102,3",
+                "searchStr": "MIXFM_102_3LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/MixFm-1023-Nicosia-i156/live",
+                "streamURL": "http://eco.onestreaming.com:8127/index.html/stream?type=http&amp;nocache=4445"
+            },
+            "1": {
+                "imagePath": "zenith.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Ζενίθ 96,4",
+                "searchStr": "ZENITH_96_4LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Zenith-964-Nicosia-i162/live",
+                "streamURL": "http://eco.onestreaming.com:8023/index.html/stream?type=http&amp;nocache=586269"
+            },
+            "10": {
+                "imagePath": "kanali6.jpg",
+                "location": "ΛΕΜΕΣΟΣ",
+                "name": "Κανάλι Εξι 106",
+                "searchStr": "KANALI_EXI_106LEMESOS",
+                "siteURL": "http://www.e-radio.gr/Kanali-Eksi-106-Limassol-i153/live",
+                "streamURL": "http://stream.dnsgb.net:8012/index.html/stream?type=http&amp;nocache=113719"
+            },
+            "11": {
+                "imagePath": "choice.jpg",
+                "location": "ΛΕΜΕΣΟΣ",
+                "name": "Choice 104,3",
+                "searchStr": "CHOICE_104_3LEMESOS",
+                "siteURL": "http://www.e-radio.gr/Choice-1043-Limassol-i149/live",
+                "streamURL": "http://eco.onestreaming.com:8364/index.html/stream?type=http&amp;nocache=11169"
+            },
+            "12": {
+                "imagePath": "diesi-cyprus.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Δίεση 101,1",
+                "searchStr": "DIESI_101_1LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Diesi-1011-Nicosia-i155/live",
+                "streamURL": "http://r1.cloudskep.com/radio/diesi/icecast.audio"
+            },
+            "13": {
+                "imagePath": "sportfm.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "SuperSport 104",
+                "searchStr": "SUPERSPORT_104LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/SuperSport-104-Nicosia-i500/live",
+                "streamURL": "http://sportfm-cyprus.live24.gr/sportfm-cyprus"
+            },
+            "14": {
+                "imagePath": "sportfm95.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Sport Fm",
+                "searchStr": "SPORT_FMLEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Sport-Fm-Nicosia-i2320/live",
+                "streamURL": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8"
+            },
+            "15": {
+                "imagePath": "rikproto.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "RIK Πρώτο 97,2",
+                "searchStr": "RIK_PROTO_97_2LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/RIK-Proto-972-Nicosia-i163/live",
+                "streamURL": "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio"
+            },
+            "16": {
+                "imagePath": "politis1076.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Πολίτης 107,6",
+                "searchStr": "POLITIS_107_6LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Politis-1076-Nicosia-i1794/live",
+                "streamURL": "http://eco.onestreaming.com:8199/index.html/stream?type=http&amp;nocache=616"
+            },
+            "17": {
+                "imagePath": "rik4.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "RIK Radio 4 88,2",
+                "searchStr": "RIK_RADIO_4_88_2LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/RIK-Radio-4-882-Nicosia-i166/live",
+                "streamURL": "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
+            },
+            "18": {
+                "imagePath": "ojoradio.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "OJO Radio",
+                "searchStr": "OJO_RADIOLEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/OJO-Radio-Nicosia-i2275/live",
+                "streamURL": "http://eco.onestreaming.com:8642/index.html/stream?type=http&amp;nocache=85"
+            },
+            "2": {
+                "imagePath": "ant1radiocy.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Ant1 Radio 102,7",
+                "searchStr": "ANT1_RADIO_102_7LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Ant1-Radio-1027-Nicosia-i751/live",
+                "streamURL": "http://r1.cloudskep.com/radio2/ant1fm/icecast.audio"
+            },
+            "20": {
+                "imagePath": "rockfmcy.jpg",
+                "location": "ΠΑΦΟΣ",
+                "name": "Rock FM 98,5",
+                "searchStr": "ROCK_FM_98_5PAFOS",
+                "siteURL": "http://www.e-radio.gr/Rock-FM-985-Paphos-i159/live",
+                "streamURL": "http://eco.onestreaming.com:8278/index.html/stream?type=http&amp;nocache=12904"
+            },
+            "21": {
+                "imagePath": "starfmcy.jpg",
+                "location": "ΛΑΡΝΑΚΑ",
+                "name": "Star FM 93,7",
+                "searchStr": "STAR_FM_93_7LARNAKA",
+                "siteURL": "http://www.e-radio.gr/Star-FM-937-Larnaca-i191/live",
+                "streamURL": "http://eco.onestreaming.com:8538/index.html/stream?type=http&amp;nocache=6015"
+            },
+            "22": {
+                "imagePath": "sports1.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Sports1 97,3",
+                "searchStr": "SPORTS1_97_3LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Sports1-973-Nicosia-i160/live",
+                "streamURL": "http://eco.onestreaming.com:8486/index.html/stream?type=http&amp;nocache=152"
+            },
+            "24": {
+                "imagePath": "Russian-Radio.jpg",
+                "location": "ΛΕΜΕΣΟΣ",
+                "name": "Russian Radio",
+                "searchStr": "RUSSIAN_RADIOLEMESOS",
+                "siteURL": "http://www.e-radio.gr/Russian-Radio-Limassol-i2269/live",
+                "streamURL": "http://eco.onestreaming.com:8634"
+            },
+            "25": {
+                "imagePath": "radio5.jpg",
+                "location": "INTERNET RADIO",
+                "name": "Radio 5",
+                "searchStr": "RADIO_5INTERNET_RADIO",
+                "siteURL": "http://www.e-radio.gr/Radio-5-Internet-Radio-i1782/live",
+                "streamURL": "http://eco.onestreaming.com:8436/index.html/stream?type=http&amp;nocache=38"
+            },
+            "26": {
+                "imagePath": "pafosfm.jpg",
+                "location": "ΠΑΦΟΣ",
+                "name": "Πάφος Ράδιο 93,7",
+                "searchStr": "PAFOS_RADIO_93_7PAFOS",
+                "siteURL": "http://www.e-radio.gr/Pafos-Fm-937-Paphos-i154/live",
+                "streamURL": "http://213.207.162.62:88/broadwave.mp3"
+            },
+            "29": {
+                "imagePath": "Alithinos_Logos.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Ο Αληθινός Λόγος 93,3",
+                "searchStr": "O_ALITHINOS_LOGOS_93_3LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/O-Alithinos-Logos-933-Nicosia-i2331/live",
+                "streamURL": "http://eco.onestreaming.com:8139/index.html/stream?type=http&amp;nocache=18"
+            },
+            "3": {
+                "imagePath": "radioproto.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Ράδιο Πρώτο 99,3",
+                "searchStr": "RADIO_PROTO_99_3LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Radio-Proto-993-Nicosia-i158/live",
+                "streamURL": "http://eco.onestreaming.com:8191/index.html/stream?type=http&amp;nocache=3484"
+            },
+            "4": {
+                "imagePath": "super.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Super FM 104,8",
+                "searchStr": "SUPER_FM_104_8LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Super-FM-1048-Nicosia-i161/live",
+                "streamURL": "http://eco.onestreaming.com:8175/index.html/stream?type=http&amp;nocache=715"
+            },
+            "6": {
+                "imagePath": "klikfmcy.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Klik FM 105,5",
+                "searchStr": "KLIK_FM_105_5LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Klik-FM-1055-Nicosia-i151/live",
+                "streamURL": "http://eco.onestreaming.com:8310/index.html/stream?type=http&amp;nocache=499"
+            },
+            "7": {
+                "imagePath": "mixgreek.jpg",
+                "location": "INTERNET RADIO CY",
+                "name": "Mix Greek",
+                "searchStr": "MIX_GREEKINTERNET_RADIO_CY",
+                "siteURL": "http://www.e-radio.gr/Mix-Greek-Internet-Radio-Cy-i2306/live",
+                "streamURL": "http://eco.onestreaming.com:8644/index.html/stream?type=http&amp;nocache=146271"
+            },
+            "8": {
+                "imagePath": "riktrito.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "RIK Τρίτο 94,8",
+                "searchStr": "RIK_TRITO_94_8LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/RIK-Trito-948-Nicosia-i165/live",
+                "streamURL": "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio"
+            },
+            "9": {
+                "imagePath": "sfera.jpg",
+                "location": "ΛΕΥΚΩΣΙΑ",
+                "name": "Sfera 96,8",
+                "searchStr": "SFERA_96_8LEYKOSIA",
+                "siteURL": "http://www.e-radio.gr/Sfera-968-Nicosia-i543/live",
+                "streamURL": "http://phileradio.com:8193/sfera"
+            }
+        }
+    },
+    {
+        "cat_language": {
+            "el": "Ξένοι σταθμοί",
+            "en": "International Stations"
+        },
+        "radios": [
+            {
+                "imagePath": "1030.v7.jpg",
+                "location": "England",
+                "name": "Kiss FM",
+                "searchStr": "KISS_FMENGLAND",
+                "siteURL": "https://planetradio.co.uk/kiss/",
+                "streamURL": "https://stream-kiss.planetradio.co.uk/kissnational.aac"
+            },
+            {
+                "imagePath": "925.v5.jpg",
+                "location": "England",
+                "name": "The Hits Radio",
+                "searchStr": "THE_HITS_RADIOENGLAND",
+                "siteURL": "https://planetradio.co.uk/hits-radio/",
+                "streamURL": "https://stream-al.planetradio.co.uk/hits.aac"
+            },
+            {
+                "imagePath": "1033.v11.jpg",
+                "location": "England",
+                "name": "Kerrang Radio",
+                "searchStr": "KERRANG_RADIOENGLAND",
+                "siteURL": "https://planetradio.co.uk/kerrang/",
+                "streamURL": "https://stream-al.planetradio.co.uk/kerrang.aac"
+            },
+            {
+                "imagePath": "1193.v9.jpg",
+                "location": "England",
+                "name": "BBC Radio 1",
+                "searchStr": "BBC_RADIO_1ENGLAND",
+                "siteURL": "https://www.bbc.co.uk/radio1",
+                "streamURL": "http://sc59.lon.llnw.net/stream/bbcmedia_radio1_mf_p"
+            },
+            {
+                "imagePath": "1257.v7.jpg",
+                "location": "England",
+                "name": "Absolute Radio",
+                "searchStr": "ABSOLUTE_RADIOENGLAND",
+                "siteURL": "https://absoluteradio.co.uk/",
+                "streamURL": "https://ais.absoluteradio.co.uk/absoluteradiomed.aac"
+            },
+            {
+                "imagePath": "982.v3.jpg",
+                "location": "England",
+                "name": "Planet Rock",
+                "searchStr": "PLANET_ROCKENGLAND",
+                "siteURL": "https://www.planetrock.com/",
+                "streamURL": "https://stream-mz.planetradio.co.uk/planetrock.aac"
+            },
+            {
+                "imagePath": "930.v22.jpg",
+                "location": "England",
+                "name": "Radio Caroline",
+                "searchStr": "RADIO_CAROLINEENGLAND",
+                "siteURL": "http://www.radiocaroline.co.uk/",
+                "streamURL": "http://78.129.202.200:8000/;"
+            },
+            {
+                "imagePath": "35209.v5.jpg",
+                "location": "England",
+                "name": "Energy FM ",
+                "searchStr": "ENERGY_FM_ENGLAND",
+                "siteURL": "https://www.energyfm.co.uk/",
+                "streamURL": "http://176.31.98.109:8838/;stream.nsv"
+            },
+            {
+                "imagePath": "2128.v1.jpg",
+                "location": "Mazovia",
+                "name": "RMI-Italo Disco Greatest Hits",
+                "searchStr": "RMI-ITALO_DISCO_GREATEST_HITSMAZOVIA",
+                "siteURL": "",
+                "streamURL": "http://188.165.195.176:8046/stream"
+            },
+            {
+                "imagePath": "1557.v1.jpg",
+                "location": "West Pomeranian",
+                "name": "Radio Italo4You",
+                "searchStr": "RADIO_ITALO4YOUWEST_POMERANIAN",
+                "siteURL": "http://www.radioitalo4you.net/",
+                "streamURL": "http://s4.radiohost.pl:8000/;920742230024189stream.nsv"
+            },
+            {
+                "imagePath": "18067.v3.jpg",
+                "location": "Campania",
+                "name": "Radio Nuova San Giorgio",
+                "searchStr": "RADIO_NUOVA_SAN_GIORGIOCAMPANIA",
+                "siteURL": "http://www.radionuovasangiorgio.com/",
+                "streamURL": "http://eu1.fastcast4u.com:10942/;"
+            },
+            {
+                "imagePath": "50350.v1.jpg",
+                "location": "Silesia, Katowice",
+                "name": "RM80",
+                "searchStr": "RM80SILESIA__KATOWICE",
+                "siteURL": "http://rm80.radio.net/",
+                "streamURL": "http://91.232.4.33:9011/stream"
+            },
+            {
+                "imagePath": "2123.v1.jpg",
+                "location": "Mazovia, Warsaw",
+                "name": "RMI-Italo Euro Disco",
+                "searchStr": "RMI-ITALO_EURO_DISCOMAZOVIA__WARSAW",
+                "siteURL": "http://rmiinthemix.radio.net/",
+                "streamURL": "http://188.165.195.176:8016/stream"
+            },
+            {
+                "imagePath": "21390.v2.jpg",
+                "location": "Sardinia, Cagliari",
+                "name": "Radio Mela",
+                "searchStr": "RADIO_MELASARDINIA__CAGLIARI",
+                "siteURL": "http://rmiinthemix.radio.net/",
+                "streamURL": "http://91.121.38.216:8016/;"
+            },
+            {
+                "imagePath": "18068.v1.jpg",
+                "location": "Campania, Naples",
+                "name": "Radio Nuova Vomero",
+                "searchStr": "RADIO_NUOVA_VOMEROCAMPANIA__NAPLES",
+                "siteURL": "www.radionuova.com/",
+                "streamURL": "http://hyades.shoutca.st:8631/stream"
+            },
+            {
+                "imagePath": "11926.v4.jpg",
+                "location": "Lombardy, Bergamo",
+                "name": "Radio Zeta",
+                "searchStr": "RADIO_ZETALOMBARDY__BERGAMO",
+                "siteURL": "https://www.radiozeta.it/",
+                "streamURL": "http://shoutcast.rtl.it:3030/stream/1/"
+            },
+            {
+                "imagePath": "5a8ade6aa11fa01e7050a7fb.jpg",
+                "location": "Copenhagen, Denmark",
+                "name": "Danmarks Radio P1",
+                "searchStr": "DANMARKS_RADIO_P1COPENHAGEN__DENMARK",
+                "siteURL": "https://www.dr.dk/radio/p1",
+                "streamURL": "http://live-icy.gss.dr.dk:80/A/A03L.mp3"
+            },
+            {
+                "imagePath": "5aa67976a11f9f10e416adb5.jpg",
+                "location": "Copenhagen, Denmark",
+                "name": "Danmarks Radio P2",
+                "searchStr": "DANMARKS_RADIO_P2COPENHAGEN__DENMARK",
+                "siteURL": "https://www.dr.dk/radio/p2",
+                "streamURL": "http://live-icy.gss.dr.dk:80/A/A04L.mp3"
+            },
+            {
+                "imagePath": "5a8addd0a11fa01e7050a7e0.jpg",
+                "location": "Copenhagen, Denmark",
+                "name": "Danmarks Radio P3",
+                "searchStr": "DANMARKS_RADIO_P3COPENHAGEN__DENMARK",
+                "siteURL": "https://www.dr.dk/radio/p3",
+                "streamURL": "http://live-icy.gss.dr.dk:80/A/A05L.mp3"
+            },
+            {
+                "imagePath": "14cs7yq.jpg",
+                "location": "Stockholm, Sweden",
+                "name": "Sveriges Radio P1",
+                "searchStr": "SVERIGES_RADIO_P1STOCKHOLM__SWEDEN",
+                "siteURL": "http://www.sverigesradio.se/p1",
+                "streamURL": "http://http-live.sr.se/p1-mp3-192"
+            },
+            {
+                "imagePath": "21d0flu.jpg",
+                "location": "Stockholm, Sweden",
+                "name": "Sveriges Radio P3",
+                "searchStr": "SVERIGES_RADIO_P3STOCKHOLM__SWEDEN",
+                "siteURL": "http://www.sverigesradio.se/p3",
+                "streamURL": "http://http-live.sr.se/p3-mp3-192"
+            },
+            {
+                "imagePath": "14cs7yq.jpg",
+                "location": "Stockholm, Sweden",
+                "name": "Sveriges Radio P4",
+                "searchStr": "SVERIGES_RADIO_P4STOCKHOLM__SWEDEN",
+                "siteURL": "http://www.sverigesradio.se/stockholm/",
+                "streamURL": "http://http-live.sr.se/p4stockholm-mp3-192"
+            },
+            {
+                "imagePath": "live_blog_0.jpg",
+                "location": "Honolulu, Hawaii",
+                "name": "Hawaii Public Radio",
+                "searchStr": "HAWAII_PUBLIC_RADIOHONOLULU__HAWAII",
+                "siteURL": "http://www.hawaiipublicradio.org/",
+                "streamURL": "http://khpr-ice.streamguys1.com:80/khpr2"
+            },
+            {
+                "imagePath": "logo00s_800.jpg",
+                "location": "Bristol, United Kingdom",
+                "name": "Burst Radio",
+                "searchStr": "BURST_RADIOBRISTOL__UNITED_KINGDOM",
+                "siteURL": "http://www.burstradio.org.uk/",
+                "streamURL": "http://s.burstradio.org.uk:8000/;"
+            },
+            {
+                "imagePath": "GreenMajorityBanner-water.jpg",
+                "location": "Toronto, Canada",
+                "name": "CIUT",
+                "searchStr": "CIUTTORONTO__CANADA",
+                "siteURL": "http://www.ciut.fm/",
+                "streamURL": "http://128.100.197.46:80/"
+            },
+            {
+                "imagePath": "DSC00089.JPG.jpg",
+                "location": "Hammond, Louisiana",
+                "name": "KSLU",
+                "searchStr": "KSLUHAMMOND__LOUISIANA",
+                "siteURL": "http://www2.southeastern.edu/kslu/",
+                "streamURL": "http://147.174.55.27:7998/"
+            },
+            {
+                "imagePath": "maxresdefault.jpg",
+                "location": "Buenos Aires, Argentina",
+                "name": "Blur FM",
+                "searchStr": "BLUR_FMBUENOS_AIRES__ARGENTINA",
+                "siteURL": "http://www.blurfm.com/",
+                "streamURL": "http://64.34.175.149:8000/blurfm01"
+            },
+            {
+                "imagePath": "1597_4729336_798660_image.jpg",
+                "location": "Nicosia, Cyprus",
+                "name": "U Radio",
+                "searchStr": "U_RADIONICOSIA__CYPRUS",
+                "siteURL": "http://www.uradio.com.cy/",
+                "streamURL": "http://shout.kalsedia.com:9996/uradio996_64"
+            },
+            {
+                "imagePath": "118350648.jpg",
+                "location": "São Paulo, Brazil",
+                "name": "Radio USP",
+                "searchStr": "RADIO_USPSãO_PAULO__BRAZIL",
+                "siteURL": "http://www.radio.usp.br/",
+                "streamURL": "http://flow.emm.usp.br:8007/radiousp-48.ogg"
+            },
+            {
+                "imagePath": "DoFy2OhX0AAkG6p.jpg",
+                "location": "St. Pölten, Austria",
+                "name": "Campus & City Radio",
+                "searchStr": "CAMPUS_&_CITY_RADIOST._PöLTEN__AUSTRIA",
+                "siteURL": "http://www.campusradio.at/",
+                "streamURL": "http://www.cr944.at:8000/cr944-high"
+            },
+            {
+                "imagePath": "471472649667_XL.jpg",
+                "location": "Guatemala City, Guatemala",
+                "name": "Radio Universidad",
+                "searchStr": "RADIO_UNIVERSIDADGUATEMALA_CITY__GUATEMALA",
+                "siteURL": "http://radiou.usac.edu.gt",
+                "streamURL": "http://dns921.no-ip.biz:8000/"
+            },
+            {
+                "imagePath": "a2c7c035bf034a8ba6d214f34880bf5d.jpg",
+                "location": "Trondheim, Norway",
+                "name": "Radio Revolt",
+                "searchStr": "RADIO_REVOLTTRONDHEIM__NORWAY",
+                "siteURL": "http://www.radiorevolt.no/",
+                "streamURL": "http://streamer.radiorevolt.no:8000/revolt.aac"
+            },
+            {
+                "imagePath": "universitetsradioen-logo-765x1024.jpg",
+                "location": "Copenhagen, Denmark",
+                "name": "Universitetsradioen",
+                "searchStr": "UNIVERSITETSRADIOENCOPENHAGEN__DENMARK",
+                "siteURL": "http://universitetsradioen.dk",
+                "streamURL": "http://netradio.universitetsradioen.dk:8000/live64.ogg"
+            },
+            {
+                "imagePath": "uwshome.jpg",
+                "location": "Ayr, Scotland",
+                "name": "UWSRadio",
+                "searchStr": "UWSRADIOAYR__SCOTLAND",
+                "siteURL": "http://www.uwsradio.scot/",
+                "streamURL": "http://icecast.commedia.org.uk:8000/ucaradio.mp3"
+            },
+            {
+                "imagePath": "41418_13123407_2486023_9aaf18af_image.jpg",
+                "location": "Lund, Sweden",
+                "name": "Radio AF",
+                "searchStr": "RADIO_AFLUND__SWEDEN",
+                "siteURL": "http://www.radioaf.se/",
+                "streamURL": "http://live.radioaf.se:8000/;stream/1"
+            },
+            {
+                "imagePath": "20389844213_8de8cd2e8d_b.jpg",
+                "location": "Oslo, Norway",
+                "name": "NRK P1",
+                "searchStr": "NRK_P1OSLO__NORWAY",
+                "siteURL": "http://www.nrk.no/p1",
+                "streamURL": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+            },
+            {
+                "imagePath": "7092.jpg",
+                "location": "Oslo, Norway",
+                "name": "NRK P13",
+                "searchStr": "NRK_P13OSLO__NORWAY",
+                "siteURL": "http://radio.nrk.no/direkte/p13",
+                "streamURL": "http://lyd.nrk.no/nrk_radio_p13_aac_h"
+            },
+            {
+                "imagePath": "1024.jpg",
+                "location": "Oslo, Norway",
+                "name": "NRK Urørt",
+                "searchStr": "NRK_URøRTOSLO__NORWAY",
+                "siteURL": "http://urort.p3.no",
+                "streamURL": "http://lyd.nrk.no/nrk_radio_p3_urort_aac_h"
+            },
+            {
+                "imagePath": "2000px-NRK_Jazz.svg.jpg",
+                "location": "Oslo, Norway",
+                "name": "NRK Jazz",
+                "searchStr": "NRK_JAZZOSLO__NORWAY",
+                "siteURL": "https://radio.nrk.no/direkte/jazz",
+                "streamURL": "http://lyd.nrk.no/nrk_radio_jazz_aac_h"
+            },
+            {
+                "imagePath": "NzSLwa3pUHQARfkBgqmxnwMd73xZAZxanT_ZlkQ7ycAA.jpg",
+                "location": "Oslo, Norway",
+                "name": "NRK Klassisk",
+                "searchStr": "NRK_KLASSISKOSLO__NORWAY",
+                "siteURL": "https://radio.nrk.no/direkte/klassisk",
+                "streamURL": "http://lyd.nrk.no/nrk_radio_klassisk_aac_h"
+            },
+            {
+                "imagePath": "mtn-radio-awards-nominees_cus.jpg",
+                "location": "Cape Town, South Africa",
+                "name": "UCT Radio",
+                "searchStr": "UCT_RADIOCAPE_TOWN__SOUTH_AFRICA",
+                "siteURL": "http://www.radio.uct.ac.za/",
+                "streamURL": "http://listenlive-c2p1.ndstream.net:8130/"
+            },
+            {
+                "imagePath": "60b2ffe68af23ce163b7d73881358591.jpg",
+                "location": "Phoenix, Arizona",
+                "name": "Arizona State University",
+                "searchStr": "ARIZONA_STATE_UNIVERSITYPHOENIX__ARIZONA",
+                "siteURL": "http://www.blazeradioonline.com/",
+                "streamURL": "http://184.154.90.188:80/stream"
+            },
+            {
+                "imagePath": "article-hero-637.jpg",
+                "location": "Waterloo, Canada",
+                "name": "SoundFM",
+                "searchStr": "SOUNDFMWATERLOO__CANADA",
+                "siteURL": "http://soundfm.ca/",
+                "streamURL": "http://192.240.102.133:7703/stream"
+            },
+            {
+                "imagePath": "Radio.jpg",
+                "location": "Bern, Switzerland",
+                "name": "Radio NRJ Bern",
+                "searchStr": "RADIO_NRJ_BERNBERN__SWITZERLAND",
+                "siteURL": "http://www.energy.ch/bern/",
+                "streamURL": "http://energybern.ice.infomaniak.ch/energybern-high.mp3"
+            },
+            {
+                "imagePath": "qsc-ksub-dual-12-1000-watt-active-subwoofer-deb.jpg",
+                "location": "Seattle, Washington",
+                "name": "KSUB",
+                "searchStr": "KSUBSEATTLE__WASHINGTON",
+                "siteURL": "http://www.ksubseattle.org/",
+                "streamURL": "http://lin1.san.fast-serv.com:6014"
+            },
+            {
+                "imagePath": "maxresdefault.jpg",
+                "location": "Nashville, Tennessee",
+                "name": "WRVU",
+                "searchStr": "WRVUNASHVILLE__TENNESSEE",
+                "siteURL": "http://wrvu.org/",
+                "streamURL": "http://129.59.202.68:8200/"
+            },
+            {
+                "imagePath": "C4bo8pzVYAAMmrJ.jpg",
+                "location": "Long Island, New York",
+                "name": "WUSB",
+                "searchStr": "WUSBLONG_ISLAND__NEW_YORK",
+                "siteURL": "http://www.wusb.fm/",
+                "streamURL": "http://stream.wusb.stonybrook.edu:8080/"
+            },
+            {
+                "imagePath": "welcome-to-coogtv.jpg",
+                "location": "Houston, Texas",
+                "name": "COOG",
+                "searchStr": "COOGHOUSTON__TEXAS",
+                "siteURL": "http://coogradio.uh.edu/",
+                "streamURL": "http://coogradio.uh.edu:8000/coogradio"
+            },
+            {
+                "imagePath": "DuP8qoKV4AAIPRQ.jpg",
+                "location": "Tuscaloosa, Alabama",
+                "name": "WVUA-FM",
+                "searchStr": "WVUA-FMTUSCALOOSA__ALABAMA",
+                "siteURL": "http://wvuafm.ua.edu/",
+                "streamURL": "http://ice8.securenetsystems.net/WVUA"
+            },
+            {
+                "imagePath": "depositphotos_82166886-stock-illustration-strawberry-vector-logo-icon-element.jpg",
+                "location": "Budapest, Hungary",
+                "name": "EPER",
+                "searchStr": "EPERBUDAPEST__HUNGARY",
+                "siteURL": "http://eper.elte.hu/",
+                "streamURL": "http://radio.elte.hu:8000/live24"
+            },
+            {
+                "imagePath": "6668-068f-4577-a637-2dc12ae8a627.jpg",
+                "location": "Manchester, United Kingdom",
+                "name": "Fuse FM",
+                "searchStr": "FUSE_FMMANCHESTER__UNITED_KINGDOM",
+                "siteURL": "http://fusefm.co.uk/",
+                "streamURL": "http://studio.fusefm.co.uk:8000/livehi"
+            },
+            {
+                "imagePath": "CJSWpresents_web.jpg",
+                "location": "Calgary, Canada",
+                "name": "CJSW",
+                "searchStr": "CJSWCALGARY__CANADA",
+                "siteURL": "http://cjsw.com/",
+                "streamURL": "http://stream.cjsw.com:80/cjsw.mp3"
+            },
+            {
+                "imagePath": "maxresdefault.jpg",
+                "location": "Sydney, Canada",
+                "name": "Caper Radio",
+                "searchStr": "CAPER_RADIOSYDNEY__CANADA",
+                "siteURL": "http://caperradio.ca/",
+                "streamURL": "http://142.12.32.15:8000/stream"
+            },
+            {
+                "imagePath": "2891525758_e6f7ddf4f1_b.jpg",
+                "location": "Washington, District of Columbia",
+                "name": "WAMU",
+                "searchStr": "WAMUWASHINGTON__DISTRICT_OF_COLUMBIA",
+                "siteURL": "http://wamu.org/",
+                "streamURL": "http://wamu-1.streamguys.com/"
+            },
+            {
+                "imagePath": "610561520.jpg",
+                "location": "Newcastle, Australia",
+                "name": "2NURFM",
+                "searchStr": "2NURFMNEWCASTLE__AUSTRALIA",
+                "siteURL": "http://www.newcastle.edu.au/community-and-alumni/arts-and-culture/2nurfm",
+                "streamURL": "http://broadcaster1.newcastle.edu.au:8000/2NURFM-aacPlus"
+            },
+            {
+                "imagePath": "6A30B6C8-720E-4D13-9DB4-58744307B5D9.jpg",
+                "location": "Adelaide, Australia",
+                "name": "Radio Adelaide",
+                "searchStr": "RADIO_ADELAIDEADELAIDE__AUSTRALIA",
+                "siteURL": "https://radio.adelaide.edu.au/",
+                "streamURL": "http://stream.radio.adelaide.edu.au:8000/radadl-128.aac"
+            },
+            {
+                "imagePath": "letter-r-logo-radio-signal-vector-23217718.jpg",
+                "location": "Brno, Czech Republic",
+                "name": "Radio R",
+                "searchStr": "RADIO_RBRNO__CZECH_REPUBLIC",
+                "siteURL": "http://www.radior.cz/",
+                "streamURL": "http://radior.video.muni.cz:8000/FSS_ogg-q0.ogg"
+            },
+            {
+                "imagePath": "image-placeholder-title.jpg",
+                "location": "London, United Kingdom",
+                "name": "Imperial College Radio",
+                "searchStr": "IMPERIAL_COLLEGE_RADIOLONDON__UNITED_KINGDOM",
+                "siteURL": "http://icradio.com/",
+                "streamURL": "http://icecast.icradio.com:8000/live-mp3-high"
+            },
+            {
+                "imagePath": "IMG_1265.jpg",
+                "location": "Bruxelles, Belgium",
+                "name": "Radio Campus Bruxelles",
+                "searchStr": "RADIO_CAMPUS_BRUXELLESBRUXELLES__BELGIUM",
+                "siteURL": "http://www.radiocampus.be/",
+                "streamURL": "http://streamer.radiocampus.be:8000/stream_hi.ogg"
+            },
+            {
+                "imagePath": "1024px-France_Culture_logo_2005.svg.jpg",
+                "location": "Paris, France",
+                "name": "France Culture",
+                "searchStr": "FRANCE_CULTUREPARIS__FRANCE",
+                "siteURL": "http://www.franceculture.fr/",
+                "streamURL": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+            },
+            {
+                "imagePath": "38395124.jpg",
+                "location": "Paris, France",
+                "name": "France Info",
+                "searchStr": "FRANCE_INFOPARIS__FRANCE",
+                "siteURL": "http://www.franceinfo.fr/",
+                "streamURL": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+            },
+            {
+                "imagePath": "mIHZmNWI.jpg",
+                "location": "Oxford, United Kingdom",
+                "name": "Oxford Student Radio",
+                "searchStr": "OXFORD_STUDENT_RADIOOXFORD__UNITED_KINGDOM",
+                "siteURL": "http://oxideradio.co.uk/",
+                "streamURL": "http://109.74.196.76/proxy/oxideradio?mp=/stream"
+            },
+            {
+                "imagePath": "201236443.jpg",
+                "location": "Cambridge, United Kingdom",
+                "name": "Cam FM",
+                "searchStr": "CAM_FMCAMBRIDGE__UNITED_KINGDOM",
+                "siteURL": "http://www.camfm.co.uk/",
+                "streamURL": "http://stream.camfm.co.uk/camfm"
+            },
+            {
+                "imagePath": "p3.jpg",
+                "location": "Chapel Hill, North Carolina",
+                "name": "WXYC",
+                "searchStr": "WXYCCHAPEL_HILL__NORTH_CAROLINA",
+                "siteURL": "http://www.wxyc.org/",
+                "streamURL": "http://152.46.7.128:8000/wxyc.ogg"
+            },
+            {
+                "imagePath": "radionova_cover.jpg",
+                "location": "Oslo, Norway",
+                "name": "Radio NOVA",
+                "searchStr": "RADIO_NOVAOSLO__NORWAY",
+                "siteURL": "http://radionova.no/",
+                "streamURL": "http://stream.radionova.no:80/mp3"
+            },
+            {
+                "imagePath": "20181101_StickyWicket_Podcast_Logo.jpg",
+                "location": "New Orleans, Louisiana",
+                "name": "WWNO",
+                "searchStr": "WWNONEW_ORLEANS__LOUISIANA",
+                "siteURL": "http://wwno.org/",
+                "streamURL": "http://pubint.ic.llnwd.net/stream/pubint_wwno_128"
+            },
+            {
+                "imagePath": "ktru-stickers.jpg",
+                "location": "Houston, Texas",
+                "name": "KTRU",
+                "searchStr": "KTRUHOUSTON__TEXAS",
+                "siteURL": "http://ktru.org/",
+                "streamURL": "http://128.42.201.27:80"
+            },
+            {
+                "imagePath": "PO7981111-front-cu1.jpg",
+                "location": "New York City, New York",
+                "name": "WKCR",
+                "searchStr": "WKCRNEW_YORK_CITY__NEW_YORK",
+                "siteURL": "http://www.studentaffairs.columbia.edu/wkcr/",
+                "streamURL": "http://wkcr.streamguys1.com:80/live"
+            },
+            {
+                "imagePath": "kexp-logo-video-03.jpg",
+                "location": "Seattle, Washington",
+                "name": "KEXP",
+                "searchStr": "KEXPSEATTLE__WASHINGTON",
+                "siteURL": "http://kexp.org/",
+                "streamURL": "http://live-mp3-128.kexp.org:80/kexp128.mp3"
+            },
+            {
+                "imagePath": "CLR3vJ-UMAAVKdR.jpg",
+                "location": "San Francisco, California",
+                "name": "SomaFM DEF CON",
+                "searchStr": "SOMAFM_DEF_CONSAN_FRANCISCO__CALIFORNIA",
+                "siteURL": "http://somafm.com/",
+                "streamURL": "http://ice1.somafm.com/defcon-128-aac"
+            }
+        ]
+    }
+]
